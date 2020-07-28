@@ -2,9 +2,13 @@
 Capstone Project 
 AGENDA:
 To build a predective ML model to predict which kind of student will leave the college within one year of course.
+
 Type of problem : CLASSIFICATION Problem [Bi-class Target variable]
+
 Algorithm : Logistic Model & Random Forest Classifier.
+
 Metrics : ROC AUC Score.
+
 Accuracy : 79.23% on test data.
 
 NTERPRETATION
